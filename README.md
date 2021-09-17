@@ -1,2 +1,1 @@
-# confinedstudios.github.io
-Our Website
+[Website](https://confinedstudios.github.io/)
